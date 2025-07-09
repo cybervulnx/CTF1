@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cybervulnx-logo.jpg" alt="CyberVulnX Logo" width="400"/>
+  <img src="cybervulnx logo.jpg" alt="CyberVulnX Logo" width="400"/>
 </p>
 # 🧠 Intro to CTF – Your First Flag
 
