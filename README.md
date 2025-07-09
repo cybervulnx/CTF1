@@ -1,1 +1,76 @@
-# CTF1
+
+# 🧠 Intro to CTF – Your First Flag
+
+Welcome to your very first Capture The Flag (CTF) challenge! This is a beginner-friendly web challenge designed to help students understand what a CTF is and how to find hidden flags using the **View Page Source** method.
+
+## 🔍 Challenge Description
+
+A flag has been hidden inside the source code of a simple HTML web page. Your goal is to:
+
+1. Open the webpage.
+2. View its source code.
+3. Search through the HTML to find the hidden flag.
+
+This challenge simulates how many basic CTF tasks are structured, especially in the **Web category**.
+
+---
+
+## 🌐 Access the Challenge Page
+
+👉 **[Click here to open the challenge](https://yourusername.github.io/ctf-lab/)**  
+*(Replace this URL with your actual GitHub Pages link)*
+
+---
+
+## 📌 What You Need To Do
+
+1. Right-click on the webpage and choose **"View Page Source"**.
+2. Look for a comment containing the flag, like:
+   ```html
+   <!-- flag{your_flag_here} -->
+````
+
+3. Copy the flag exactly as it appears (including curly braces `{}`).
+4. Submit the flag in the TryHackMe room or as instructed by your instructor.
+
+---
+
+## 🏁 Flag Format
+
+All flags follow this format:
+
+```
+flag{something_here}
+```
+
+Example:
+
+```
+flag{first_flag_from_source}
+```
+
+---
+
+## 📚 About This Challenge
+
+This lab is part of a beginner-level **CTF workshop** hosted by **CyberVulnX**, aimed at introducing students to cybersecurity and ethical hacking fundamentals.
+
+---
+
+## 🤝 Credits
+
+Created with 💻 by \[Your Name]
+Cybersecurity Club – **CyberVulnX**
+
+---
+
+## 🔐 License
+
+This challenge is created for educational purposes. Feel free to fork and modify it for your own workshops or training events.
+
+```
+
+---
+
+Let me know if you'd like it customized with your **name**, **CyberVulnX logo**, or a **QR code image** for easy access!
+```
