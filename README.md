@@ -13,14 +13,11 @@ A flag has been hidden inside the source code of a simple HTML web page. Your go
 
 This challenge simulates how many basic CTF tasks are structured, especially in the **Web category**.
 
----
 
 ## 🌐 Access the Challenge Page
 
-👉 **[Click here to open the challenge](https://yourusername.github.io/ctf-lab/)**  
-*(Replace this URL with your actual GitHub Pages link)*
+👉 **[Click here to open the challenge](https://cybervulnx.github.io/CTF1/)**  
 
----
 
 ## 📌 What You Need To Do
 
@@ -40,13 +37,13 @@ This challenge simulates how many basic CTF tasks are structured, especially in 
 All flags follow this format:
 
 ```
-flag{something_here}
+CVX{something_here}
 ```
 
 Example:
 
 ```
-flag{first_flag_from_source}
+CVX{first_flag_from_source}
 ```
 
 ---
@@ -55,22 +52,13 @@ flag{first_flag_from_source}
 
 This lab is part of a beginner-level **CTF workshop** hosted by **CyberVulnX**, aimed at introducing students to cybersecurity and ethical hacking fundamentals.
 
----
 
 ## 🤝 Credits
 
-Created with 💻 by \[Your Name]
+Created with 💻 by CyberVulnx
 Cybersecurity Club – **CyberVulnX**
 
----
 
 ## 🔐 License
 
 This challenge is created for educational purposes. Feel free to fork and modify it for your own workshops or training events.
-
-```
-
----
-
-Let me know if you'd like it customized with your **name**, **CyberVulnX logo**, or a **QR code image** for easy access!
-```
