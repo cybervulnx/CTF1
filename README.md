@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="cybervulnx-logo.jpg" alt="CyberVulnX Logo" width="400"/>
+</p>
 # 🧠 Intro to CTF – Your First Flag
 
 Welcome to your very first Capture The Flag (CTF) challenge! This is a beginner-friendly web challenge designed to help students understand what a CTF is and how to find hidden flags using the **View Page Source** method.
